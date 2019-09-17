@@ -13,4 +13,4 @@ Exercise 3.5.a uit 'Reader\ISE_DMDD_ExercisesAnswers_FO-ERM_1920.pdf'
 Huiswerk week 3:
 
 Reader 4 en 5 uit 'Reader\ISE_DMDD_ReaderNormalizingFO-ERM_2019.pdf'
-Exercise 3.4, 3.5, 3.6 en 4.2 uit 'Reader\ISE_DMDD_ExercisesAnswers_FO-ERM_1920.pdf'
+Exercise 3.4, 3.5, 3.6 en 4.2 uit 'Reader\ISE_DMDD_ExercisesAnswers_FO-ERM_1920.pdf' lol
