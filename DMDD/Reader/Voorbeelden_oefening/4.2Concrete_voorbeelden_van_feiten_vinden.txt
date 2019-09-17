@@ -1,0 +1,9 @@
+Als je een informatiemodel gaat maken, 
+is het vaak handig om eerst een vlug procesmodelletje te schetsen.
+Voorbeeld hiervan is een BPMN, wat bedrijfsprocessen omschrijft. Dit model
+kun je gebruiken als een startpunt voor je informatiemodel.
+
+Tijdens een gesprek met een domeinexpert is het ook belangrijk naar enige
+toekomstige informationele plannen te vragen. Bijvoorbeeld of een winkel een
+speciale korting wil geven aan vaste klanten. Het is dan handig om snel een 
+modelletje op te schrijven om de domeinexpert te laten valideren.

@@ -1,0 +1,1 @@
+select * from ALL_TIME_OUTDOOR_TOP_LIST
