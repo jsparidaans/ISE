@@ -1,0 +1,31 @@
+Codon CAG bestaat uit de drie Basen Cytosine, Adenine en Guanine
+"   " UUA "                       " Uracil, Uracil en Adenine
+      ---                           ----------------------------
+ET Codon                           ET Base
+MATCH                              ID: Att baseCode
+
+
+Base Uracil heeft een baseCode U
+"  " Cytosine "              " C
+     --------                -----
+Att baseNaam                Att baseCode
+
+
+Codon CAG vertaalt naar Aminozuur GluN
+"   " UUA "                     " Leu
+      ---                        -----
+      ---                       ET Aminozuur
+      ---                       ID: Att aminozuurCode
+ET Codon                       
+ID: ET Base +   ET Base +   ET Base
+    MATCH       MATCH       MATCH
+RT: GeneticCode between Codon and Aminozuur
+RT: Base_in_1e_positie between Codon and Base
+RT: "      "2e"      " "                    "
+RT: "      "3e"      " "                    "
+
+
+Aminozuur GluN heet Glucosinaat
+"       " Ala  "  " Alanine
+         -----      -----------
+Att aminozuurCode   Att aminozuurNaam

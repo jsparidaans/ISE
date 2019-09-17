@@ -1,0 +1,4 @@
+Huiswerk voor week 2:
+
+3 opdrachten uit 'Week 1\Huiswerk\Wk1.3 - extra opdracht SET vergelijken.sql'
+Opdrachten 1 en 2 uit het werkboekthema 'CONSTRAINTS' pagina 11 'Readers\Werkboek v3.1 Database Implementation opdrachten 2019 -2020.pdf'
