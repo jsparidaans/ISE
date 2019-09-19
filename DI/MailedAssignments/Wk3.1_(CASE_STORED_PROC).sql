@@ -9,15 +9,15 @@
 -- Syntax for SQL Server and Azure SQL Database  
   
 --Simple CASE expression:
-CASE input_expression   
-     WHEN when_expression THEN result_expression [ ...n ]   
-     [ ELSE else_result_expression ]   
-END   
+-- CASE input_expression
+--      WHEN when_expression THEN result_expression [ ...n ]   
+--      [ ELSE else_result_expression ]   
+-- END   
 --Searched CASE expression:  
-CASE  
-     WHEN Boolean_expression THEN result_expression [ ...n ]   
-     [ ELSE else_result_expression ]   
-END
+-- CASE  
+--      WHEN Boolean_expression THEN result_expression [ ...n ]   
+--      [ ELSE else_result_expression ]   
+-- END
 
 
 DECLARE @date datetime
