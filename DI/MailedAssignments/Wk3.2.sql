@@ -207,9 +207,9 @@ GO
 
 
 
---7.	Maak een stored procedure met één parameter @sortParameter van type varchar die:
---a.	Als @sortParameter = ‘OrderDate’ alle records uit Orders geeft gesorteerd op column ‘OrderDate’
---b.	Als @sortParameter = ‘OrderStatus’ alle records uit Orders geeft gesorteerd op column ‘OrderStatus’
+--7.	Maak een stored procedure met ï¿½ï¿½n parameter @sortParameter van type varchar die:
+--a.	Als @sortParameter = ï¿½OrderDateï¿½ alle records uit Orders geeft gesorteerd op column ï¿½OrderDateï¿½
+--b.	Als @sortParameter = ï¿½OrderStatusï¿½ alle records uit Orders geeft gesorteerd op column ï¿½OrderStatusï¿½
 --c.	In alle andere gevallen een foutmelding geeft.
 
 
@@ -371,7 +371,6 @@ set language Dutch
 RAISERROR(15600,-1,-1,'SP_GetOrdersSorted') 
 
 
-RAISERROR ('Ongeldige waarde %s voor %s', 16, 1, 'A', 'B');
+RAISERROR ('Ongeldige waarde %s voor %s', 16, 1, 'A', 'B')
 
 
-14:23 OEFENTOETS
