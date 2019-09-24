@@ -7,7 +7,8 @@
 		<Model Expanded="Yes" ID="{03A8D98E-EE86-41B0-A8B6-EE9E6FEA4D92}" Loaded="No" Name="Tutorial Data Model" Type="{1E597170-9350-11D1-AB3C-0020AF71E433}" URL="Week 1/Tutorial Data Model.cdm"/>
 		<Model Expanded="Yes" ID="{A6C663CA-EA1C-4CC5-8590-D9624DE2B493}" Loaded="No" Name="Exercise 3.2" Type="{1E597170-9350-11D1-AB3C-0020AF71E433}" URL="Week 2/Huiswerk/Exercise 3.2.cdm"/>
 		<Model Expanded="Yes" ID="{A6C663CA-EA1C-4CC5-8590-D9624DE2B493}" Loaded="No" Name="Exercise 3.2" Type="{1E597170-9350-11D1-AB3C-0020AF71E433}" URL="Week 2/Huiswerk/Exercise 3.2.cdm"/>
-		<Model Expanded="Yes" ID="{0139BE54-91AF-4704-8544-EE417F911B7B}" Name="GeneThinker" Selected="Yes" Type="{1E597170-9350-11D1-AB3C-0020AF71E433}" URL="Week 2/Huiswerk/GeneThinker.cdm"/>
+		<Model Expanded="Yes" ID="{0139BE54-91AF-4704-8544-EE417F911B7B}" Loaded="No" Name="GeneThinker" Type="{1E597170-9350-11D1-AB3C-0020AF71E433}" URL="Week 2/Huiswerk/GeneThinker.cdm"/>
+		<Model Expanded="Yes" ID="{DC423D5C-8D7A-4E20-9F81-E1A66510F28B}" Name="Class_Execise_Butter" Selected="Yes" Type="{1E597170-9350-11D1-AB3C-0020AF71E433}" URL="Week 4/CDM/Class_Execise_Butter.cdm"/>
 	</Local>
 	<BrowserModule Name="Repository"/>
 </Workspace>
